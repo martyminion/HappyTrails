@@ -1,0 +1,27 @@
+h1{
+  padding: 50px;
+  color: darkmagenta;
+}
+.tropical{
+  color: aqua;
+}
+.tropicalbackn{
+  color: blue;
+}
+.popular{
+  color: gold;
+}
+.thead{
+color: #f7352e;
+}
+.phead{
+  color: goldenrod;
+}
+.ttext{
+  color: #7dc410;
+  font-family: fantasy;
+}
+.column{
+  float: left;
+  width: 25%;
+}
