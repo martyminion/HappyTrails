@@ -3,7 +3,7 @@ h1{
   color: darkmagenta;
 }
 .tropical{
-  color: aqua;
+  background-color: aqua;
 }
 .tropicalbackn{
   color: blue;
@@ -22,6 +22,6 @@ color: #f7352e;
   font-family: fantasy;
 }
 .column{
-  float: left;
+  float: right;
   width: 25%;
 }
